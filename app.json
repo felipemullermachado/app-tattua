@@ -18,6 +18,11 @@
     },
     "android": {
       "package": "com.muller.tattoomanager"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c1d62d10-841e-436b-b7df-b039e8627e24"
+      }
     }
   }
 }
