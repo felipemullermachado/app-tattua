@@ -1,5 +1,8 @@
 # App Tattua
 
+Versão do Node
+15.14.0
+
 Para rodar o projeto em seu computador, você deve primeiro instalar o Expo
 
 ```sh
